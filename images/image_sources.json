@@ -1,0 +1,132 @@
+[
+  {
+    "key": "louvre",
+    "file": "images/sights/louvre.jpg",
+    "source_page": "https://en.wikipedia.org/wiki/Louvre"
+  },
+  {
+    "key": "orsay",
+    "file": "images/sights/orsay.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Interior_of_the_Mus%C3%A9e_d%27Orsay.jpg"
+  },
+  {
+    "key": "sacre",
+    "file": "images/sights/sacre.jpg",
+    "source_page": "https://en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur,_Paris"
+  },
+  {
+    "key": "saleya",
+    "file": "images/sights/saleya.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Cours_Saleya_market_fruit_stalls_Nice_2026.JPG"
+  },
+  {
+    "key": "promenade",
+    "file": "images/sights/promenade.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Nice_Promenade_des_Anglais.jpg"
+  },
+  {
+    "key": "menton",
+    "file": "images/sights/menton.jpg",
+    "source_page": "https://en.wikipedia.org/wiki/Menton"
+  },
+  {
+    "key": "villefranche",
+    "file": "images/sights/villefranche.jpg",
+    "source_page": "https://en.wikipedia.org/wiki/Villefranche-sur-Mer"
+  },
+  {
+    "key": "monaco",
+    "file": "images/sights/monaco2.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Monte_Carlo_harbor.jpg"
+  },
+  {
+    "key": "eze",
+    "file": "images/sights/eze.jpg",
+    "source_page": "https://en.wikipedia.org/wiki/%C3%88ze"
+  },
+  {
+    "key": "antibes",
+    "file": "images/sights/antibes.jpg",
+    "source_page": "https://en.wikipedia.org/wiki/Antibes"
+  },
+  {
+    "key": "socca",
+    "file": "images/food/socca.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Socca_a_Nice.jpg"
+  },
+  {
+    "key": "pissaladiere",
+    "file": "images/food/pissaladiere.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Pissaladi%C3%A8re.jpg"
+  },
+  {
+    "key": "panbagnat",
+    "file": "images/food/panbagnat.jpg",
+    "source_page": "https://en.wikipedia.org/wiki/Pan_bagnat"
+  },
+  {
+    "key": "croissant",
+    "file": "images/food/croissant.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Croissants.jpg"
+  },
+  {
+    "key": "quiche",
+    "file": "images/food/quiche.jpg",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Quiche_lorraine.jpg"
+  },
+  {
+    "key": "theresa",
+    "file": "images/restaurants/theresa.webp",
+    "source_page": "https://www.explorenicecotedazur.com/en/shop/chez-theresa/"
+  },
+  {
+    "key": "hachis",
+    "file": "images/grocery/hachis.jpg",
+    "source_page": "https://courses.monoprix.fr/products/fleury-michon-hachis-parmentier-emmental-300g/MPX_5216910"
+  },
+  {
+    "key": "risotto",
+    "file": "images/grocery/risotto.jpg",
+    "source_page": "https://courses.monoprix.fr/products/fleury-michon-risotto-au-poulet-et-aux-c%C3%A8pes-280g/MPX_1253678"
+  },
+  {
+    "key": "tagliatelle",
+    "file": "images/grocery/tagliatelle.jpg",
+    "source_page": "https://www.auchan.fr/lustucru-tagliatelles-aux-oeufs-frais/pr-C1456217"
+  },
+  {
+    "key": "papa-sauce",
+    "file": "images/grocery/papa-sauce.jpg",
+    "source_page": "https://www.auchan.fr/papa-sauce-sauce-champignons-truffes-d-ete-sans-conservateurs/pr-C1704446"
+  },
+  {
+    "key": "sacla",
+    "file": "images/grocery/sacla.jpg",
+    "source_page": "https://www.auchan.fr/sacla-sauce-pesto-a-la-truffe-blanc-d-ete/pr-C1228894"
+  },
+  {
+    "key": "tortellini",
+    "file": "images/grocery/tortellini.jpg",
+    "source_page": "https://www.auchan.fr/rana-tortellini-au-bacon-mozzarella-et-speck/pr-C1834875"
+  },
+  {
+    "key": "marie-duck",
+    "file": "images/grocery/marie-duck.jpg",
+    "source_page": "https://www.marie.fr/produits/canard-confit-ecrase-de-pommes-de-terre/"
+  },
+  {
+    "key": "marie-lasagne",
+    "file": "images/grocery/marie-lasagne.jpg",
+    "source_page": "https://www.auchan.fr/marie-lasagnes-a-la-bolognaise/pr-C1215691"
+  },
+  {
+    "key": "marie-gambas",
+    "file": "images/grocery/marie-gambas.jpg",
+    "source_page": "https://www.auchan.fr/marie-petites-gambas-et-tagliatelles-au-pesto-sans-couverts/pr-C1220428"
+  },
+  {
+    "key": "fleury-paella",
+    "file": "images/grocery/fleury-paella.jpg",
+    "source_page": "https://www.auchan.fr/fleury-michon-paella-valenciana/pr-C1222120"
+  }
+]
